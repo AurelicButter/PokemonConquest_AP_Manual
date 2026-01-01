@@ -1,6 +1,6 @@
 # Pokemon Conquest Manual
 
-A manual for Archipellago made to use with Pokemon Conquest, a game released on the Nintendo DS.
+A manual for [Archipelago](https://archipelago.gg) made to use with Pokemon Conquest, a game released on the Nintendo DS.
 
 ## Progression
 The goal of the manual is to clear The Legend of Ransei story line, which is to conquer all 17 kingdoms, stop Nobunga, and meet Arceus. The starting kingdom of Aurora and Ignis are provided at the start but to unlock further kingdoms, you'll be required to find the kingdom keys.
