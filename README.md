@@ -3,7 +3,7 @@
 A manual for [Archipelago](https://archipelago.gg) made to use with Pokemon Conquest, a game released on the Nintendo DS.
 
 ## Progression
-The goal of the manual is to clear The Legend of Ransei story line, which is to conquer all 17 kingdoms, stop Nobunga, and meet Arceus. The starting kingdom of Aurora and Ignis are provided at the start but to unlock further kingdoms, you'll be required to find the kingdom keys.
+The goal of the manual is to clear The Legend of Ransei story line, which is to conquer all 17 kingdoms, stop Nobunaga, and meet Arceus. The starting kingdom of Aurora and Ignis are provided at the start but to unlock further kingdoms, you'll be required to find the kingdom keys.
 
 ## Options
 All options are currently toggleable with true/false. This is a very early build so please see the lists below of what is stable and what isn't.
