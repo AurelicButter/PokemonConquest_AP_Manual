@@ -1,0 +1,1505 @@
+[
+  {"name": "Defeat Koroku (Tutorial)", "category": ["Aurora"], "region": "Aurora"},
+  {"name": "Defeat Nagayasu (Tutorial)", "category": ["Aurora"], "region": "Aurora"},
+  {"name": "Defeat Starly (Farm Tutorial)", "category": ["Aurora"], "region": "Aurora"},
+  {"name": "Defeat Bidoof (Farm Tutorial)", "category": ["Aurora"], "region": "Aurora"},
+  {"name": "Defeat Wooper (Ravine Training)", "category": ["Aurora"], "region": "Aurora"},
+  {"name": "Defeat Meowth (Ravine Training)", "category": ["Aurora"], "region": "Aurora"},
+  {"name": "Conquer Ignis", "category": ["Ignis"], "region": "Ignis"},
+  {"name": "Conquer Greenleaf", "category": ["Greenleaf"], "region": "Greenleaf", "requires": "|Greenleaf Kingdom Key| OR |@Progressive Key:1|"},
+  {"name": "Conquer Fontaine", "category": ["Fontaine"], "region": "Fontaine", "requires": "|Fontaine Kingdom Key| OR |@Progressive Key:2|"},
+  {"name": "Conquer Pugilis", "category": ["Pugilis"], "region": "Pugilis", "requires": "|Pugilis Kingdom Key| OR |@Progressive Key:3|"},
+  {"name": "Conquer Violight", "category": ["Violight"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Conquer Chrysalia", "category": ["Chrysalia"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Conquer Illusio", "category": ["Illusio"], "region": "Illusio", "requires": "|Illusio Kingdom Key| OR |@Progressive Key:6|"},
+  {"name": "Conquer Terrera", "category": ["Terrera"], "region": "Terrera", "requires": "|Terrera Kingdom Key| OR |@Progressive Key:7|"},
+  {"name": "Conquer Cragspur", "category": ["Cragspur"], "region": "Cragspur", "requires": "|Cragspur Kingdom Key| OR |@Progressive Key:8|"},
+  {"name": "Conquer Viperia", "category": ["Viperia"], "region": "Viperia", "requires": "|Viperia Kingdom Key| OR |@Progressive Key:9|"},
+  {"name": "Conquer Avia", "category": ["Avia"], "region": "Avia", "requires": "|Avia Kingdom Key| OR |@Progressive Key:10|"},
+  {"name": "Conquer Yaksha", "category": ["Yaksha"], "region": "Yaksha", "requires": "|Yaksha Kingdom Key| OR |@Progressive Key:11|"},
+  {"name": "Conquer Valora", "category": ["Valora"], "region": "Valora", "requires": "|Valora Kingdom Key| OR |@Progressive Key:12|"},
+  {"name": "Conquer Spectra", "category": ["Spectra"], "region": "Spectra", "requires": "|Spectra Kingdom Key| OR |@Progressive Key:13|"},
+  {"name": "Conquer Nixtorm", "category": ["Nixtorm"], "region": "Nixtorm", "requires": "|Nixtorm Kingdom Key| OR |@Progressive Key:14|"},
+  {"name": "Conquer Dragnor", "category": ["Dragnor"], "region": "Dragnor", "requires": "|Dragnor Kingdom Key| OR |@Progressive Key:15|"},
+  {"name": "Recruit Oichi", "category": ["Warriorsanity"], "region": "Aurora"},
+  {"name": "Recruit Takatora", "category": ["Warriorsanity"], "region": "Ignis"},
+  {"name": "Recruit Hideyaki", "category": ["Warriorsanity"], "region": "Ignis"},
+  {"name": "Recruit Rikyu", "category": ["Warriorsanity"], "region": "Ignis"},
+  {"name": "Recruit Motoharu", "category": ["Warriorsanity"], "region": "Greenleaf", "requires": "|Greenleaf Kingdom Key| OR |@Progressive Key:1|"},
+  {"name": "Recruit Takamoto", "category": ["Warriorsanity"], "region": "Greenleaf", "requires": "|Greenleaf Kingdom Key| OR |@Progressive Key:1|"},
+  {"name": "Recruit Takakage", "category": ["Warriorsanity"], "region": "Greenleaf", "requires": "|Greenleaf Kingdom Key| OR |@Progressive Key:1|"},
+  {"name": "Defeat Hideyoshi (Ignis)", "category": ["Ignis"], "region": "Ignis"},
+  {"name": "Defeat Koroku (Ignis)", "category": ["Ignis"], "region": "Ignis"},
+  {"name": "Defeat Nagayasu (Ignis)", "category": ["Ignis"], "region": "Ignis"},
+  {"name": "Defeat Motonari", "category": ["Duelsanity", "Greenleaf"], "region": "Greenleaf", "requires": "|Greenleaf Kingdom Key| OR |@Progressive Key:1|"},
+  {"name": "Defeat Motoharu", "category": ["Duelsanity", "Greenleaf"], "region": "Greenleaf", "requires": "|Greenleaf Kingdom Key| OR |@Progressive Key:1|"},
+  {"name": "Defeat Takakage", "category": ["Duelsanity", "Greenleaf"], "region": "Greenleaf", "requires": "|Greenleaf Kingdom Key| OR |@Progressive Key:1|"},
+  {"name": "Defeat Takamoto", "category": ["Duelsanity", "Greenleaf"], "region": "Greenleaf", "requires": "|Greenleaf Kingdom Key| OR |@Progressive Key:1|"},
+  {"name": "Defeat Motochika", "category": ["Duelsanity", "Fontaine"], "region": "Fontaine", "requires": "|Fontaine Kingdom Key| OR |@Progressive Key:2|"},
+  {"name": "Defeat Nobuchika", "category": ["Duelsanity", "Fontaine"], "region": "Fontaine", "requires": "|Fontaine Kingdom Key| OR |@Progressive Key:2|"},
+  {"name": "Defeat Morichika", "category": ["Duelsanity", "Fontaine"], "region": "Fontaine", "requires": "|Fontaine Kingdom Key| OR |@Progressive Key:2|"},
+  {"name": "Defeat Chikamasa", "category": ["Duelsanity", "Fontaine"], "region": "Fontaine", "requires": "|Fontaine Kingdom Key| OR |@Progressive Key:2|"},
+  {"name": "Recruit Nobuchika", "category": ["Warriorsanity"], "region": "Fontaine", "requires": "|Fontaine Kingdom Key| OR |@Progressive Key:2|"},
+  {"name": "Recruit Morichika", "category": ["Warriorsanity"], "region": "Fontaine", "requires": "|Fontaine Kingdom Key| OR |@Progressive Key:2|"},
+  {"name": "Recruit Chikamasa", "category": ["Warriorsanity"], "region": "Fontaine", "requires": "|Fontaine Kingdom Key| OR |@Progressive Key:2|"},
+  {"name": "Defeat Yoshihiro", "category": ["Duelsanity", "Pugilis"], "region": "Pugilis", "requires": "|Pugilis Kingdom Key| OR |@Progressive Key:3|"},
+  {"name": "Defeat Tadamoto", "category": ["Duelsanity", "Pugilis"], "region": "Pugilis", "requires": "|Pugilis Kingdom Key| OR |@Progressive Key:3|"},
+  {"name": "Defeat Tadatsune", "category": ["Duelsanity", "Pugilis"], "region": "Pugilis", "requires": "|Pugilis Kingdom Key| OR |@Progressive Key:3|"},
+  {"name": "Defeat Takahisa", "category": ["Duelsanity", "Pugilis"], "region": "Pugilis", "requires": "|Pugilis Kingdom Key| OR |@Progressive Key:3|"},
+  {"name": "Defeat Kanemori", "category": ["Duelsanity", "Pugilis"], "region": "Pugilis", "requires": "|Pugilis Kingdom Key| OR |@Progressive Key:3|"},
+  {"name": "Recruit Tadamoto", "category": ["Warriorsanity"], "region": "Pugilis", "requires": "|Pugilis Kingdom Key| OR |@Progressive Key:3|"},
+  {"name": "Recruit Kanemori", "category": ["Warriorsanity"], "region": "Pugilis", "requires": "|Pugilis Kingdom Key| OR |@Progressive Key:3|"},
+  {"name": "Recruit Tadatsune", "category": ["Warriorsanity"], "region": "Pugilis", "requires": "|Pugilis Kingdom Key| OR |@Progressive Key:3|"},
+  {"name": "Defeat Ginchiyo", "category": ["Duelsanity", "Violight"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Defeat Muneshige", "category": ["Duelsanity", "Violight"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Defeat Shoun", "category": ["Duelsanity", "Violight"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Defeat Sorin", "category": ["Duelsanity", "Violight"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Defeat Taketane", "category": ["Duelsanity", "Violight"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Recruit Muneshige", "category": ["Warriorsanity"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Recruit Shoun", "category": ["Warriorsanity"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Recruit Sorin", "category": ["Warriorsanity"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Recruit Taketane", "category": ["Warriorsanity"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Defeat Yoshimoto", "category": ["Duelsanity", "Chrysalia"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Defeat Ujichika", "category": ["Duelsanity", "Chrysalia"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Defeat Sessai", "category": ["Duelsanity", "Chrysalia"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Defeat Masatsuna", "category": ["Duelsanity", "Chrysalia"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Defeat Yasutomo", "category": ["Duelsanity", "Chrysalia"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Recruit Ujichika", "category": ["Warriorsanity"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Recruit Sessai", "category": ["Warriorsanity"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Recruit Masatsuna", "category": ["Warriorsanity"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Recruit Yasutomo", "category": ["Warriorsanity"], "region": "Chrysalia", "requires": "|Chrysalia Kingdom Key| OR |@Progressive Key:5|"},
+  {"name": "Defeat Shingen", "category": ["Duelsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Defeat Yukimura", "category": ["Duelsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Defeat Kunoichi", "category": ["Duelsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Defeat Katsuyori", "category": ["Duelsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Defeat Masatoyo", "category": ["Duelsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Defeat Kei", "category": ["Duelsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Recruit Shingen", "category": ["Warriorsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Recruit Yukimura", "category": ["Warriorsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Recruit Kunoichi", "category": ["Warriorsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Recruit Katsuyori", "category": ["Warriorsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Recruit Masatoyo", "category": ["Warriorsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Recruit Kei", "category": ["Warriorsanity", "Terrera"], "region": "Terrera"},
+  {"name": "Defeat Kenshin", "category": ["Duelsanity", "Illusio"], "region": "Illusio"},
+  {"name": "Defeat Ava", "category": ["Duelsanity", "Illusio"], "region": "Illusio"},
+  {"name": "Defeat Kanetsugu", "category": ["Duelsanity", "Illusio"], "region": "Illusio"},
+  {"name": "Defeat Kagekatsu", "category": ["Duelsanity", "Illusio"], "region": "Illusio"},
+  {"name": "Defeat Yataro", "category": ["Duelsanity", "Illusio"], "region": "Illusio"},
+  {"name": "Defeat Sen", "category": ["Duelsanity", "Illusio"], "region": "Illusio"},
+  {"name": "Recruit Kenshin", "category": ["Warriorsanity", "Illusio"], "region": "Illusio"},
+  {"name": "Defeat Ujiyasu", "category": ["Duelsanity", "Cragspur"], "region": "Cragspur"},
+  {"name": "Defeat Kai", "category": ["Duelsanity", "Cragspur"], "region": "Cragspur"},
+  {"name": "Defeat Tsunashige", "category": ["Duelsanity", "Cragspur"], "region": "Cragspur"},
+  {"name": "Defeat Ujimasa", "category": ["Duelsanity", "Cragspur"], "region": "Cragspur"},
+  {"name": "Defeat Ujiteru", "category": ["Duelsanity", "Cragspur"], "region": "Cragspur"},
+  {"name": "Defeat Ujikuni", "category": ["Duelsanity", "Cragspur"], "region": "Cragspur"},
+  {"name": "Defeat Nene", "category": ["Duelsanity", "Viperia"], "region": "Viperia"},
+  {"name": "Defeat Hideyoshi (Viperia)", "category": ["Duelsanity", "Viperia"], "region": "Viperia"},
+  {"name": "Defeat Hanzo", "category": ["Duelsanity", "Viperia"], "region": "Viperia"},
+  {"name": "Defeat Hatsume", "category": ["Duelsanity", "Viperia"], "region": "Viperia"},
+  {"name": "Defeat Sandayu", "category": ["Duelsanity", "Viperia"], "region": "Viperia"},
+  {"name": "Defeat Chiyome", "category": ["Duelsanity", "Viperia"], "region": "Viperia"},
+  {"name": "Defeat Kotaro", "category": ["Duelsanity", "Yaksha"], "region": "Yaksha"},
+  {"name": "Defeat Shimoyama", "category": ["Duelsanity", "Yaksha"], "region": "Yaksha"},
+  {"name": "Defeat Genba", "category": ["Duelsanity", "Yaksha"], "region": "Yaksha"},
+  {"name": "Defeat Danzo", "category": ["Duelsanity", "Yaksha"], "region": "Yaksha"},
+  {"name": "Defeat Yazaemon", "category": ["Duelsanity", "Yaksha"], "region": "Yaksha"},
+  {"name": "Defeat Isuke", "category": ["Duelsanity", "Yaksha"], "region": "Yaksha"},
+  {"name": "Defeat Masamune", "category": ["Duelsanity", "Avia"], "region": "Avia"},
+  {"name": "Defeat Magoichi", "category": ["Duelsanity", "Avia"], "region": "Avia"},
+  {"name": "Defeat Kagetsuna", "category": ["Duelsanity", "Avia"], "region": "Avia"},
+  {"name": "Defeat Shigezane", "category": ["Duelsanity", "Avia"], "region": "Avia"},
+  {"name": "Defeat Tsunamoto", "category": ["Duelsanity", "Avia"], "region": "Avia"},
+  {"name": "Defeat Iroha", "category": ["Duelsanity", "Avia"], "region": "Avia"},
+  {"name": "Defeat Ieyasu (Valora)", "category": ["Duelsanity", "Valora"], "region": "Valora"},
+  {"name": "Defeat Tadakatsu", "category": ["Duelsanity", "Valora"], "region": "Valora"},
+  {"name": "Defeat Ina", "category": ["Duelsanity", "Valora"], "region": "Valora"},
+  {"name": "Defeat Hidetada", "category": ["Duelsanity", "Valora"], "region": "Valora"},
+  {"name": "Defeat Tenkai", "category": ["Duelsanity", "Valora"], "region": "Valora"},
+  {"name": "Defeat Munenori", "category": ["Duelsanity", "Valora"], "region": "Valora"},
+  {"name": "Defeat No (Spectra)", "category": ["Duelsanity", "Spectra"], "region": "Spectra"},
+  {"name": "Defeat Okuni", "category": ["Duelsanity", "Spectra"], "region": "Spectra"},
+  {"name": "Defeat Dosan", "category": ["Duelsanity", "Spectra"], "region": "Spectra"},
+  {"name": "Defeat Ittetsu", "category": ["Duelsanity", "Spectra"], "region": "Spectra"},
+  {"name": "Defeat Bokuzen", "category": ["Duelsanity", "Spectra"], "region": "Spectra"},
+  {"name": "Defeat Morinari", "category": ["Duelsanity", "Spectra"], "region": "Spectra"},
+  {"name": "Defeat Mitsuhide (Nixtorm)", "category": ["Duelsanity", "Nixtorm"], "region": "Nixtorm"},
+  {"name": "Defeat Gracia", "category": ["Duelsanity", "Nixtorm"], "region": "Nixtorm"},
+  {"name": "Defeat Hidemitsu", "category": ["Duelsanity", "Nixtorm"], "region": "Nixtorm"},
+  {"name": "Defeat Toshimitsu", "category": ["Duelsanity", "Nixtorm"], "region": "Nixtorm"},
+  {"name": "Defeat Mitsutada", "category": ["Duelsanity", "Nixtorm"], "region": "Nixtorm"},
+  {"name": "Defeat Fujitaka", "category": ["Duelsanity", "Nixtorm"], "region": "Nixtorm"},
+  {"name": "Defeat Nobunaga (Dragnor)", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Ranmaru (Dragnor)", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Kazumasu", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Urakusai", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Narimasa", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Masahide", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Nobunaga (Infinite Tower)", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Mitsuhide (Infinite Tower)", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat No (Infinite Tower)", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Ieyasu (Infinite Tower)", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Hideyoshi (Infinite Tower)", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Defeat Ranmaru (Infinite Tower)", "category": ["Duelsanity", "Dragnor"], "region": "Dragnor"},
+  {"name": "Meet Arceus", "category": ["Goal"], "region": "Dragnor", "requires": "|@Kingdom Key:15| OR |@Progressive Key:15|", "victory": true},
+  {"name": "Recruit Ginchiyo", "category": ["Warriorsanity"], "region": "Violight", "requires": "|Violight Kingdom Key| OR |@Progressive Key:4|"},
+  {"name": "Acquire Potion", "category": ["Itemsanity"]},
+  {"name": "Acquire Super Potion", "category": ["Itemsanity"]},
+  {"name": "Acquire Crimson Grace", "category": ["Itemsanity"], "region": "Aurora"},
+  {"name": "Acquire Parlyz Heal", "category": ["Itemsanity"]},
+  {"name": "Acquire Awakening", "category": ["Itemsanity"]},
+  {"name": "Acquire Antidote", "category": ["Itemsanity"]},
+  {"name": "Acquire Burn Heal", "category": ["Itemsanity"]},
+  {"name": "Acquire Ice Heal", "category": ["Itemsanity"]},
+  {"name": "Acquire Burn Block", "category": ["Itemsanity"], "region": "Ignis"},
+  {"name": "Acquire Strategy Tome", "category": ["Itemsanity"], "region": "Ignis"},
+  {"name": "Acquire Padded Cloak", "category": ["Itemsanity"], "region": "Ignis"},
+  {"name": "Acquire Harmony Flute", "category": ["Itemsanity"], "region": "Aurora"},
+  {"name": "Acquire Fragment", "category": ["Itemsanity"]},
+  {"name": "Acquire Scented Orb", "category": ["Itemsanity"]},
+  {"name": "Acquire Cerulean Grace", "category": ["Itemsanity"], "region": "Aurora"},
+  {"name": "Acquire Emerald Grace", "category": ["Itemsanity"], "region": "Aurora"},
+  {"name": "Acquire Magic Mirror", "category": ["Itemsanity"], "region": "Fontaine"},
+  {"name": "Acquire Power Wristband", "category": ["Itemsanity"], "region": "Fontaine"},
+  {"name": "Acquire Couplink", "category": ["Itemsanity"], "region": "Aurora"},
+  {"name": "Acquire Dumbbell", "category": ["Itemsanity"], "region": "Aurora"},
+  {"name": "Acquire Weak Spot Lens", "category": ["Itemsanity"], "region": "Aurora"},
+  {"name": "Acquire Parlyz Block", "category": ["Itemsanity"], "region": "Violight"},
+  {"name": "Acquire Sleep Block", "category": ["Itemsanity"], "region": "Violight"},
+  {"name": "Acquire Explosives", "category": ["Itemsanity"]},
+  {"name": "Acquire Ponigiri", "category": ["Itemsanity"], "region": "Chrysalia"},
+  {"name": "Acquire Ashen Grace", "category": ["Itemsanity"], "region": "Terrera"},
+  {"name": "Acquire Indigo Grace", "category": ["Itemsanity"], "region": "Yaksha"},
+  {"name": "Acquire Ivory Grace", "category": ["Itemsanity"], "region": "Nixtorm"},
+  {"name": "Acquire Purple Ponigiri", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Freeze Block", "category": ["Itemsanity"], "region": "Avia"},
+  {"name": "Acquire Poison Block", "category": ["Itemsanity"], "region": "Cragspur"},
+  {"name": "Acquire Hachimaki", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Noisemaker", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Iron Wristband", "category": ["Itemsanity"], "region": "Cragspur"},
+  {"name": "Acquire Guardian Charm", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Fog Machine", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Jigglypuff Charm", "category": ["Itemsanity"], "requires": "|@Kingdom Key:11| OR |@Progressive Key: 11|"},
+  {"name": "Acquire Large Sack", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Lucky Coin", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Metal Mirror", "category": ["Itemsanity"], "region": "Chrysalia"},
+  {"name": "Acquire Agility Orb", "category": ["Itemsanity"]},
+  {"name": "Acquire Canvas", "category": ["Itemsanity"]},
+  {"name": "Acquire Charisma Orb", "category": ["Itemsanity"]},
+  {"name": "Acquire Dashing Droplet", "category": ["Itemsanity"]},
+  {"name": "Acquire Durability Orb", "category": ["Itemsanity"]},
+  {"name": "Acquire Healing Herbs", "category": ["Itemsanity"]},
+  {"name": "Acquire Mystery Orb", "category": ["Itemsanity"]},
+  {"name": "Acquire Power Orb", "category": ["Itemsanity"]},
+  {"name": "Acquire Wisdom Orb", "category": ["Itemsanity"]},
+  {"name": "Acquire Cold Medicine", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Hayfever Pills", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Fireworks", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Junk", "category": ["Itemsanity"], "region": "Viperia"},
+  {"name": "Acquire Crystal Ball", "category": ["Itemsanity"]},
+  {"name": "Acquire Pretty Cord", "category": ["Itemsanity"]},
+  {"name": "Acquire Rainbow Glass", "category": ["Itemsanity"]},
+  {"name": "Acquire Rare Stone", "category": ["Itemsanity"]},
+  {"name": "Acquire Shiny Bell", "category": ["Itemsanity"]},
+  {"name": "Acquire Small Gem", "category": ["Itemsanity"]},
+  {"name": "Acquire Soft Clay", "category": ["Itemsanity"]},
+  {"name": "Acquire Sparkling Shell", "category": ["Itemsanity"]},
+  {"name": "Acquire Gold Ornament", "category": ["Itemsanity"]},
+  {"name": "Acquire History Tome", "category": ["Itemsanity"]},
+  {"name": "Acquire Ornate Armor", "category": ["Itemsanity"]},
+  {"name": "Acquire Ornate Gauntlet", "category": ["Itemsanity"]},
+  {"name": "Acquire Ornate Helmet", "category": ["Itemsanity"]},
+  {"name": "Acquire Precious Incense", "category": ["Itemsanity"]},
+  {"name": "Acquire Rare Antique", "category": ["Itemsanity"]},
+  {"name": "Acquire Secret Map", "category": ["Itemsanity"]},
+  {"name": "Acquire Silver Ornament", "category": ["Itemsanity"]},
+  {"name": "Acquire Full Heal", "category": ["Itemsanity"], "region": "Terrera"},
+  {"name": "Acquire Full Restore", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Dawn Stone", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Dusk Stone", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Fire Stone", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Leaf Stone", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Metal Coat", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Moon Stone", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Protector", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Razor Claw", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Reaper Cloth", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Shiny Stone", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Sun Stone", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Thunderstone", "category": ["Itemsanity"], "region": "Travelling Merchant"},
+  {"name": "Acquire Water Stone", "category": ["Itemsanity"], "region": "Travelling Merchant"}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

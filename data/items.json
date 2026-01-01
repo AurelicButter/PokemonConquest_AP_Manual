@@ -1,0 +1,1505 @@
+[
+  {"name": "Greenleaf Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Fontaine Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Pugilis Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Violight Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Chrysalia Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Illusio Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Terrera Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Cragspur Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Viperia Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Yaksha Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Avia Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Valora Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Spectra Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Nixtorm Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Dragnor Kingdom Key", "category": ["Kingdom Key"], "progression": true},
+  {"name": "Progressive Kingdom Key", "category": ["Progressive Key"], "count": 15, "progression": true},
+  {"name": "Oichi", "category": ["Warriorsanity", "Aurora"], "useful": true},
+  {"name": "Takatora", "category": ["Warriorsanity", "Ignis"], "useful": true},
+  {"name": "Hideyaki", "category": ["Warriorsanity", "Ignis"], "useful": true},
+  {"name": "Rikyu", "category": ["Warriorsanity", "Ignis"], "useful": true},
+  {"name": "Motoharu", "category": ["Warriorsanity", "Greenleaf"], "useful": true},
+  {"name": "Takamoto", "category": ["Warriorsanity", "Greenleaf"], "useful": true},
+  {"name": "Takakage", "category": ["Warriorsanity", "Greenleaf"], "useful": true},
+  {"name": "Nobuchika", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Morichika", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Chikamasa", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Tadamoto", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Tadatsune", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Kanemori", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Muneshige", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Sorin", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Shoun", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Taketane", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Ujichika", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Sessai", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Masatsuna", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Yasutomo", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Shingen", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Yukimura", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Kunoichi", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Katsuyori", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Masatoyo", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Kei", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Kenshin", "category": ["Warriorsanity"], "useful": true},
+  {"name": "Greenleaf Ponigiri Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Potion", "category": ["Itemsanity"], "normal": true},
+  {"name": "Super Potion", "category": ["Itemsanity"], "normal": true},
+  {"name": "Crimson Grace", "category": ["Itemsanity"], "normal": true},
+  {"name": "Parlyz Heal", "category": ["Itemsanity"], "normal": true},
+  {"name": "Awakening", "category": ["Itemsanity"], "normal": true},
+  {"name": "Antidote", "category": ["Itemsanity"], "normal": true},
+  {"name": "Burn Heal", "category": ["Itemsanity"], "normal": true},
+  {"name": "Ice Heal", "category": ["Itemsanity"], "normal": true},
+  {"name": "Burn Block", "category": ["Itemsanity"], "normal": true},
+  {"name": "Strategy Tome", "category": ["Itemsanity"], "normal": true},
+  {"name": "Padded Cloak", "category": ["Itemsanity"], "normal": true},
+  {"name": "Harmony Flute", "category": ["Itemsanity"], "normal": true},
+  {"name": "Fragment", "category": ["Itemsanity"], "normal": true},
+  {"name": "Scented Orb", "category": ["Itemsanity"], "normal": true},
+  {"name": "Cerulean Grace", "category": ["Itemsanity"], "normal": true},
+  {"name": "Emerald Grace", "category": ["Itemsanity"], "normal": true},
+  {"name": "Magic Mirror", "category": ["Itemsanity"], "normal": true},
+  {"name": "Power Wristband", "category": ["Itemsanity"], "normal": true},
+  {"name": "Couplink", "category": ["Itemsanity"], "normal": true},
+  {"name": "Dumbbell", "category": ["Itemsanity"], "normal": true},
+  {"name": "Weak Spot Lens", "category": ["Itemsanity"], "normal": true},
+  {"name": "Greenleaf Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Greenleaf Ravine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Fontaine Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Fontaine Ponigiri Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Fontaine Ravine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Pugilis Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Pugilis Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Pugilis Park", "category": ["Locationsanity"], "normal": true},
+  {"name": "Violight Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Violight Ponigiri Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Violight Power Plant", "category": ["Locationsanity"], "normal": true},
+  {"name": "Violight Sky Garden", "category": ["Locationsanity"], "normal": true},
+  {"name": "Chrysalia Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Chrysalia Ravine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Chrysalia Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Parlyz Block", "category": ["Itemsanity"], "normal": true},
+  {"name": "Sleep Block", "category": ["Itemsanity"], "normal": true},
+  {"name": "Explosives", "category": ["Itemsanity"], "normal": true},
+  {"name": "Illusio Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Illusio Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Illusio Floating Rock", "category": ["Locationsanity"], "normal": true},
+  {"name": "Illusio Power Spot", "category": ["Locationsanity"], "normal": true},
+  {"name": "Terrera Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Terrera Ponigiri Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Terrera Open Pit Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Terrera Farm", "category": ["Locationsanity"], "normal": true},
+  {"name": "Ponigiri", "category": ["Itemsanity"], "normal": true},
+  {"name": "Cragspur Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Cragspur Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Cragspur Cave", "category": ["Locationsanity"], "normal": true},
+  {"name": "Cragspur Park", "category": ["Locationsanity"], "normal": true},
+  {"name": "Viperia Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Viperia Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Viperia Alchemist", "category": ["Locationsanity"], "normal": true},
+  {"name": "Viperia Cave", "category": ["Locationsanity"], "normal": true},
+  {"name": "Viperia Park", "category": ["Locationsanity"], "normal": true},
+  {"name": "Yaksha Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Yaksha Ponigiri Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Yaksha Cave", "category": ["Locationsanity"], "normal": true},
+  {"name": "Yaksha Floating Rock", "category": ["Locationsanity"], "normal": true},
+  {"name": "Avia Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Avia Ponigiri Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Avia Sky Garden", "category": ["Locationsanity"], "normal": true},
+  {"name": "Avia Snowy Mountain", "category": ["Locationsanity"], "normal": true},
+  {"name": "Valora Ponigiri Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Valora Gold Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Valora Mystery Springs", "category": ["Locationsanity"], "normal": true},
+  {"name": "Valora Snowy Mountain", "category": ["Locationsanity"], "normal": true},
+  {"name": "Valora Park", "category": ["Locationsanity"], "normal": true},
+  {"name": "Spectra Ponigiri Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Spectra Gold Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Spectra Floating Rock", "category": ["Locationsanity"], "normal": true},
+  {"name": "Spectra Cave", "category": ["Locationsanity"], "normal": true},
+  {"name": "Nixtorm Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Nixtorm Gold Mine", "category": ["Locationsanity"], "normal": true},
+  {"name": "Nixtorm Snowy Mountain", "category": ["Locationsanity"], "normal": true},
+  {"name": "Nixtorm Sky Garden", "category": ["Locationsanity"], "normal": true},
+  {"name": "Dragnor Shop", "category": ["Locationsanity"], "normal": true},
+  {"name": "Purple Ponigiri", "category": ["Itemsanity"], "normal": true},
+  {"name": "Freeze Block", "category": ["Itemsanity"], "normal": true},
+  {"name": "Poison Block", "category": ["Itemsanity"], "normal": true},
+  {"name": "Hachimaki", "category": ["Itemsanity"], "normal": true},
+  {"name": "Noisemaker", "category": ["Itemsanity"], "normal": true},
+  {"name": "Iron Wristband", "category": ["Itemsanity"], "normal": true},
+  {"name": "Guardian Charm", "category": ["Itemsanity"], "normal": true},
+  {"name": "Fog Machine", "category": ["Itemsanity"], "normal": true},
+  {"name": "Jigglypuff Charm", "category": ["Itemsanity"], "normal": true},
+  {"name": "Large Sack", "category": ["Itemsanity"], "normal": true},
+  {"name": "Lucky Coin", "category": ["Itemsanity"], "normal": true},
+  {"name": "Metal Mirror", "category": ["Itemsanity"], "normal": true},
+  {"name": "Agility Orb", "category": ["Itemsanity"], "normal": true},
+  {"name": "Canvas", "category": ["Itemsanity"], "normal": true},
+  {"name": "Charisma Orb", "category": ["Itemsanity"], "normal": true},
+  {"name": "Dashing Droplet", "category": ["Itemsanity"], "normal": true},
+  {"name": "Durability Orb", "category": ["Itemsanity"], "normal": true},
+  {"name": "Healing Herbs", "category": ["Itemsanity"], "normal": true},
+  {"name": "Mystery Orb", "category": ["Itemsanity"], "normal": true},
+  {"name": "Power Orb", "category": ["Itemsanity"], "normal": true},
+  {"name": "Wisdom Orb", "category": ["Itemsanity"], "normal": true},
+  {"name": "Cold Medicine", "category": ["Itemsanity"], "normal": true},
+  {"name": "Hayfever Pills", "category": ["Itemsanity"], "normal": true},
+  {"name": "Fireworks", "category": ["Itemsanity"], "normal": true},
+  {"name": "Junk", "category": ["Itemsanity"], "normal": true},
+  {"name": "Crystal Ball", "category": ["Itemsanity"], "normal": true},
+  {"name": "Pretty Cord", "category": ["Itemsanity"], "normal": true},
+  {"name": "Rainbow Glass", "category": ["Itemsanity"], "normal": true},
+  {"name": "Rare Stone", "category": ["Itemsanity"], "normal": true},
+  {"name": "Shiny Bell", "category": ["Itemsanity"], "normal": true},
+  {"name": "Small Gem", "category": ["Itemsanity"], "normal": true},
+  {"name": "Soft Clay", "category": ["Itemsanity"], "normal": true},
+  {"name": "Sparkling Shell", "category": ["Itemsanity"], "normal": true},
+  {"name": "Gold Ornament", "category": ["Itemsanity"], "normal": true},
+  {"name": "History Tome", "category": ["Itemsanity"], "normal": true},
+  {"name": "Ornate Armor", "category": ["Itemsanity"], "normal": true},
+  {"name": "Ornate Gauntlet", "category": ["Itemsanity"], "normal": true},
+  {"name": "Ornate Helmet", "category": ["Itemsanity"], "normal": true},
+  {"name": "Precious Incense", "category": ["Itemsanity"], "normal": true},
+  {"name": "Rare Antique", "category": ["Itemsanity"], "normal": true},
+  {"name": "Secret Map", "category": ["Itemsanity"], "normal": true},
+  {"name": "Silver Ornament", "category": ["Itemsanity"], "normal": true},
+  {"name": "Full Heal", "category": ["Itemsanity"], "normal": true},
+  {"name": "Full Restore", "category": ["Itemsanity"], "normal": true},
+  {"name": "Dawn Stone", "category": ["Itemsanity"], "normal": true},
+  {"name": "Dusk Stone", "category": ["Itemsanity"], "normal": true},
+  {"name": "Fire Stone", "category": ["Itemsanity"], "normal": true},
+  {"name": "Leaf Stone", "category": ["Itemsanity"], "normal": true},
+  {"name": "Metal Coat", "category": ["Itemsanity"], "normal": true},
+  {"name": "Moon Stone", "category": ["Itemsanity"], "normal": true},
+  {"name": "Protector", "category": ["Itemsanity"], "normal": true},
+  {"name": "Razor Claw", "category": ["Itemsanity"], "normal": true},
+  {"name": "Reaper Cloth", "category": ["Itemsanity"], "normal": true},
+  {"name": "Shiny Stone", "category": ["Itemsanity"], "normal": true},
+  {"name": "Sun Stone", "category": ["Itemsanity"], "normal": true},
+  {"name": "Thunderstone", "category": ["Itemsanity"], "normal": true},
+  {"name": "Water Stone", "category": ["Itemsanity"], "normal": true}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

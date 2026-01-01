@@ -1,0 +1,97 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+		"progressive_keys": {
+			"display_name": "Kingdom Unlocks",
+			"description": "Toggles what type of key to generate with. If true, progressive keys are used and kingdoms unlock in a progressive order. If false, each kingdom will have a unique key to find to unlock the specific kingdom.",
+			"type": "Toggle",
+			"visibility": [
+				"simple_ui",
+				"complex_ui",
+				"template"
+			],
+			"default": true
+		},
+		"warriorsanity": {
+			"display_name": "Warriorsanity",
+			"description": "Add all warriors except Hero to the item pool. Warrior recruitment becomes a check and you are not allowed to use the warrior until they are unlocked. (Enables 199 checks)",
+			"type": "Toggle",
+			"visibility": [
+				"simple_ui",
+				"complex_ui",
+				"template"
+			],
+			"default": false,
+			"group": "Sanity Checks"
+		},
+		"locationsanity": {
+			"display_name": "Locationsanity",
+			"description": "Adds all locations outside of Aurora and Ignis to the item pool. You will not be allowed to access any location within a kingdom unless unlocked.",
+			"type": "Toggle",
+			"visibility": [
+				"simple_ui",
+				"complex_ui",
+				"template"
+			],
+			"default": false,
+			"group": "Sanity Checks"
+		},
+		"duelsanity": {
+			"display_name": "Duelsanity",
+			"description": "Adds all characters to defeat, excluding Aurora and Ignis, when battling for kingdoms. If missed in battle, these checks can be activated if the kingdom is conquered. Will add more filler into the item pool",
+			"type": "Toggle",
+			"visibility": [
+				"simple_ui",
+				"complex_ui",
+				"template"
+			],
+			"default": false,
+			"group": "Sanity Checks"
+		},
+		"itemsanity": {
+			"display_name": "Itemsanity",
+			"description": "Adds all items into the item pool. Checks happen when you acquire the item and you will not be allowed to use it until you unlock it.",
+			"type": "Toggle",
+			"visibility": [
+				"simple_ui",
+				"complex_ui",
+				"template"
+			],
+			"default": false,
+			"group": "Sanity Checks"
+		},
+		"dexsanity": {
+			"display_name": "Dexsanity",
+			"description": "Adds all pokemon as locations. Checks are fulfilled once the pokemon has the gold circle on the bottom left.",
+			"type": "Toggle",
+			"visibility": [
+				"simple_ui",
+				"complex_ui",
+				"template"
+			],
+			"default": false,
+			"group": "Sanity Checks"
+		},
+    }
+}
